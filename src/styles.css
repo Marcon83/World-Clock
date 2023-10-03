@@ -1,6 +1,7 @@
 body {
-  background-color: white;
+  background-color: whitesmoke;
   font-family: sans-serif;
+  color: white;
 }
 
 h1 {
@@ -16,7 +17,7 @@ h2 {
 .container {
   max-width: 500px;
   margin: 50px auto;
-  background: rgb(61, 214, 66);
+  background: rgb(110, 8, 80);
   padding: 20px 30px;
   box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2);
   border-radius: 10px;
@@ -61,5 +62,5 @@ footer {
   text-align: center;
   font-size: 16px;
   font-weight: bold;
-  color: black;
+  color: blue;
 }
